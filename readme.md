@@ -1,5 +1,5 @@
 
-<h1 align="center">CodeIgniter CMS Dashboard</h1>
+<h1 align="center">CodeIgniter MVC & MySQL DB - Dynamic CMS Dashboard</h1>
 <br/>
 <img src="addUser.png" />
 <img src="profileView.png" />
